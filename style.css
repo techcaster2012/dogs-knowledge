@@ -1,0 +1,31 @@
+#footer {
+		position: absolute;
+		bottom: 0;
+		width: 100%;
+		
+		background-color: #a2d3e5;
+		border-radius: 20px;
+		font-style: italic;
+		}
+#button {
+	background-color: #a2d3e5;
+	color: #67683a;
+	font-style: italic;
+}
+#page1,#page2,#page3,#page4,#page5 {
+	background-image: url(images/dogo1.jpg);
+	background-size: cover;
+	
+	
+}
+h1,h2 {
+	color: blue;
+	font-style: italic;
+	text-align: center;
+}
+
+#head {
+	background-color: #f79b07;
+	border-radius: 10px;
+}
+
