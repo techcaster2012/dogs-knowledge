@@ -7,7 +7,7 @@
  
     <!-- versionCode is Android only -->
     <!-- version is in major.minor.patch format --> 
-    <name>Puerto Rican Recipes</name>
+    <name>Dogs Knowledge</name>
  
     <description>
         An example for phonegap build app which wont show up in the playstore. 
